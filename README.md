@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on above programming language related projects.
 - 📫 How to reach me is through this or linkedin...
 
-- Look through projects/repos that I have pinned
+|| Look at my pinned repos for some of my work ||
 
 <!---
 k-kangas/k-kangas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
